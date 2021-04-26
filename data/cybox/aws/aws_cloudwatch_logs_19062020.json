@@ -11,7 +11,7 @@
             "objects": {
                 "0": {
                     "type": "domain-name",
-                    "value": "ip-172-31-88-63.ec2.internal",
+                    "value": "newmsatpmachine",
                     "resolves_to_refs": [
                         "1"
                     ]
