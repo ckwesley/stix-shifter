@@ -10,8 +10,8 @@
             "modified": "2020-06-19T19:13:47.920Z",
             "objects": {
                 "0": {
-                    "type": "alert-windows",
-                    "value": "newmsatpmachine",
+                    "type": "domain-name",
+                    "value": "alert-windows",
                     "resolves_to_refs": [
                         "1"
                     ]
